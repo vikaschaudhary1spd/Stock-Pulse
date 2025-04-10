@@ -38,10 +38,13 @@ function Brokers() {
               </td>
             </tr>
             <tr>
-            <td>Transaction charges</td>
-              <td> NSE: 0.00297%
+              <td>Transaction charges</td>
+              <td>
+                {" "}
+                NSE: 0.00297%
                 <br />
-                BSE: 0.00375%</td>
+                BSE: 0.00375%
+              </td>
               <td>
                 NSE: 0.00297%
                 <br />
@@ -59,7 +62,6 @@ function Brokers() {
               </td>
             </tr>
             <tr>
-            
               <td>GST</td>
               <td>18% on (brokerage + SEBI charges + transaction charges)</td>
               <td>18% on (brokerage + SEBI charges + transaction charges)</td>
@@ -67,7 +69,6 @@ function Brokers() {
               <td>18% on (brokerage + SEBI charges + transaction charges)</td>
             </tr>
             <tr>
-            
               <td>SEBI charges</td>
               <td>₹10 / crore</td>
               <td>₹10 / crore</td>
@@ -75,7 +76,6 @@ function Brokers() {
               <td>₹10 / crore</td>
             </tr>
             <tr>
-            
               <td>Stamp charges</td>
               <td>0.015% or ₹1500 / crore on buy side</td>
               <td>0.003% or ₹300 / crore on buy side</td>
