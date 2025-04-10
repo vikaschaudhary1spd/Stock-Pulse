@@ -8,16 +8,17 @@ function Team() {
       </div>
       <div className="row p-5 mt-5 ">
         <div className="col-6 p-5">
-          <div style={{
+          <div
+            style={{
               display: "flex",
               justifyContent: "center",
               alignItems: "center",
-              height: "100vh", // Full screen vertical centering
+              height: "100vh", 
             }}
           >
             <img
               src="media/vikas2.png"
-              style={{ width: "70%", borderRadius: "5%" }}
+              style={{ width: "60%", borderRadius: "5%" }}
               alt="Vikas"
             />
           </div>

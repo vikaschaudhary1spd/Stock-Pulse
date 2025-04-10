@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer style={{backgroundColor:"rgb(250, 250, 250)"}}>
-    <div className="container border-top mt-5"  >
+    <div className="container border-top mt-5 "  >
       <div className="row mt-5">
         <div className="col">
           <img src="media/logo0.png" style={{ width: "30%" }} />
@@ -58,11 +58,11 @@ function Footer() {
           <a href="">Fund transfer</a>
         </div>
       </div>
-      <div className="mt-5 small text-muted">
+      
+      <div  style={{fontSize:"xx-small"}} className="mt-5 small text-muted"> 
 
 
-
-        <p className="text-xs">
+        <p>
           
           Stock Pulse Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI
           Registration no.: INZ000031633 CDSL/NSDL: Depository services through
