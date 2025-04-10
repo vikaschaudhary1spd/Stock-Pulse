@@ -13,49 +13,49 @@ function Footer() {
         </div>
         <div className="col">
           <h5>Company</h5>
-          <a href="">About</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5", }}>About</a>
           <br />
-          <a href="">Product</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Product</a>
           <br />
-          <a href="">Pricing</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Pricing</a>
           <br />
-          <a href="">Referral ptogramme</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Referral ptogramme</a>
           <br />
-          <a href="">Carrers</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Carrers</a>
           <br />
-          <a href="">stockpulse.tech</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>stockpulse.tech</a>
           <br />
-          <a href="">Open source</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Open source</a>
           <br />
-          <a href="">Press & media</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Press & media</a>
           <br />
-          <a href="">stockpulse cares</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>stockpulse cares</a>
         </div>
         <div className="col">
           <h5>Support</h5>
-          <a href="">Contact us</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Contact us</a>
           <br />
-          <a href="">Support portal</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Support portal</a>
           <br />
-          <a href="">Z-Connect blog</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Z-Connect blog</a>
+          <br /> 
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>List of charges</a>
           <br />
-          <a href="">List of charges</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Download & resources</a>
           <br />
-          <a href="">Download & resources</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Videos</a>
           <br />
-          <a href="">Videos</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Market Overview</a>
           <br />
-          <a href="">Market Overview</a>
-          <br />
-          <a href="">How to file a complaint</a>
-          <br />
-          <a href="">Status of your complaints</a>
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>How to file a complaint</a>
+          <br /> 
+          <a href="" style={{ textDecoration:"none",lineHeight:"2.5"}}>Status of your complaints</a>
         </div>
         <div className="col">
           <h5>Account</h5>
-          <a href="">Open an account</a>
+          <a href=""style={{ textDecoration:"none",lineHeight:"2.5"}}>Open an account</a>
           <br />
-          <a href="">Fund transfer</a>
+          <a href=""style={{ textDecoration:"none",lineHeight:"2.5"}}>Fund transfer</a>
         </div>
       </div>
       

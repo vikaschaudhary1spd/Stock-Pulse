@@ -2,9 +2,9 @@
 
 ### basic git commands
 
-`git status`
+`git status`  - to check untracted files
 
-`git add .`
+`git add .`  
 
 `git commit -m "mgs"`
 
