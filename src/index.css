@@ -16,4 +16,15 @@ code {
   margin-left: 40px;
 
 }
+ #supporthero{
+  background-color: rgb(56, 126, 209);
+  color:white;
+ }
 
+ #tick{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 100px;
+  color:white;
+ }
+  

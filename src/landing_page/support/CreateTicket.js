@@ -48,6 +48,52 @@ function CreateTicket() {
             <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>General</a>
         </div>
       </div>
+       
+       {/* second row */}
+      <div className="row p-5 ">
+        
+        <div className='col-4 mb-5 '>
+            <h4 className='mt-3 mb-3'><i class="fa fa-university" aria-hidden="true"></i> Funds</h4>
+           
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>Add money</a>
+            <br/>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>Withdraw money</a>
+            <br/>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>Add bank accounts</a>
+            <br/>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>eMandates</a>
+           
+        </div>
+        <div className='col-4  mb-5'>
+          <h4 className='mt-3 mb-3'><i class="fa fa-circle-o" aria-hidden="true"></i>    Console</h4>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>Portfolio</a>
+          <br/>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>Corporate actions</a>
+            <br/>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>Funds statement</a>
+            <br/>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>Reports</a>
+            <br/>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>Transfer and conversion of securities</a>
+            <br/>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>Segments</a>
+            <br/>
+        </div>
+        <div className='col-4 mb-5'>
+        <h4 className='mt-3 mb-3' ><i class="fa fa-superpowers" aria-hidden="true"></i>   Coin</h4>
+          <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}> Understanding mutual funds and Coin</a>
+            <br/>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>Coin app</a>
+            <br/>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>Coin web</a>
+            <br/>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>Charts and orders</a>
+            <br/>
+            <a href=''style={{ textDecoration:"none",lineHeight:"2.5"}}>National Pension Scheme (NPS)</a>
+            <br/>
+           
+        </div>
+      </div>
       </div>
     );
 }
