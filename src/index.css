@@ -26,5 +26,10 @@ code {
   justify-content: space-between;
   margin: 0 100px;
   color:white;
+  text-align: left;
  }
   
+ #fea{
+  color: white;
+ 
+ }
